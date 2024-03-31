@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Tegalrejo",
+        "alamat": "Puskesmas Tegalrejo, Jalan Musikanan KT II No.457, Panembahan, Kecamatan Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131",
+        "no": "(0274) 586841"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36706761881214,
+          -7.770873305513348
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Jetis",
+        "alamat": "Puskesmas Jetis, Jl. Pangeran Diponegoro No.91, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231",
+        "no": "(0274) 554801"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36244192893798,
+          -7.783203943378027
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Gondokusuman II",
+        "alamat": "Puskesmas Gondokusuman II, Jl. DR. Sardjito No.22, Terban, Gondokusuman, Yogyakarta City, Special Region of Yogyakarta 55223",
+        "no": "(0274) 548933"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37109266110093,
+          -7.778616460572437
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Mantrijeron",
+        "alamat": "Puskesmas Mantijeron, Jl. DI Panjaitan No.82, Suryodiningratan, Mantrijeron, Yogyakarta City, Special Region of Yogyakarta 55141",
+        "no": "(0274) 388679"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36162915743495,
+          -7.820578162551826
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Gondokusuman I",
+        "alamat": "694J+648 Puskesmas Gondokusuman I, Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225",
+        "no": "(0274) 555226"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38069686959102,
+          -7.793812730020008
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Danurejan II",
+        "alamat": "PUSKESMAS DANUREJAN II Yogyakarta, Jl. Krasak Timur No.34, Bausasran, Danurejan, Yogyakarta City, Special Region of Yogyakarta 55211",
+        "no": "(0274) 554794"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37778802876011,
+          -7.788554378139423
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pakualam",
+        "alamat": "Puskesmas Pakualaman Yogyakarta, Jl. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166",
+        "no": "(0274) 547303"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37202318724951,
+          -7.799433877049211
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Ngampilan",
+        "alamat": "Puskesmas Ngampilan, JL. Munir Serangan Blok.NG.II No.215, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262",
+        "no": "(0274) 371399"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3559473791293,
+          -7.803466472075058
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Danurejan I",
+        "alamat": "Puskesmas Danurejan I, Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211",
+        "no": "(0274) 554805"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37524672801214,
+          -7.79440684242293
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Wirobrajan",
+        "alamat": "58QX+P6V Puskesmas Wirobrajan, Jl. Dorodasih, Patangpuluhan, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55251",
+        "no": "(0274) 414150"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34812031100984,
+          -7.810621296387296
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Kotagede I",
+        "alamat": "Puskesmas Kotagede 1, Jl. Kemasan No.12, Prenggan, Kotagede, Yogyakarta City, Special Region of Yogyakarta 55173",
+        "no": "(0274) 4437757"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40052849383392,
+          -7.822189590341509
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pembantu Giwangan",
+        "alamat": "598R+XH3 PUSKESMAS Pembantu Giwangan, Jl. Imogiri Tim., Giwangan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55163"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39142263057477,
+          -7.832611540499727
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Mlati I",
+        "alamat": "69W7+645 Puskesmas Mlati I, Jl. Wijaya Kusuma, Kutu Tegal, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
+        "no": "(0274) 4539614"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36297890006767,
+          -7.754434365630786
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Banguntapan II",
+        "alamat": "Puskesmas Banguntapan II, Jl. Pasopati No.99, Krobokan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191",
+        "no": "(0274) 4396545"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38371092085919,
+          -7.844708005107876
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pembantu Nitikan",
+        "alamat": "Puskesmas Pembantu Nitikan, Jl. Tegalturi No.2, Giwangan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55163"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38343320087085,
+          -7.825504467467837
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Kasihan II",
+        "alamat": "58CW+C22 Puskesmas Kasihan II, Jl. Padokan, Jogonalan Lor, Tirtonirmolo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55184",
+        "no": "(0274) 419294"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34502718113202,
+          -7.828966088516452
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Depok II",
+        "alamat": "Puskesmas Depok II, Jl. Lely III, Perumnas Condong Catur, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55283",
+        "no": "(0274) 887797"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40817611987603,
+          -7.756622864052531
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Depok I",
+        "alamat": "Puskesmas Depok I, Nanggulan, Maguwoharjo, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "no": "(0274) 486852"
+      },
+      "geometry": {
+        "coordinates": [
+          110.43135527745454,
+          -7.774943369956588
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Sewon 2",
+        "alamat": "Puskesmas Sewon II, JL. Parangtritis, Km. 6, Sewon, Tarudan, Bangunharjo, Kec. Bantul, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55188",
+        "no": "(0274) 445248"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36048499338222,
+          -7.847016785033858
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Mlati II",
+        "alamat": "788H+W84 Puskesmas Mlati 2, Cabakan, Sumberadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55286",
+        "no": "(0274) 865909"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32824493424818,
+          -7.732666599587603
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ]
+}
